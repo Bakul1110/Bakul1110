@@ -3,7 +3,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Bakul</h1>
-<h3 align="center">I'm certified Data Analyst from India and a data science enthusiast.</h3>
+<h3 align="center">I'm certified Data Analyst and a data science enthusiast from India.</h3>
 
 
 ## 🙋‍♂️ About Me
